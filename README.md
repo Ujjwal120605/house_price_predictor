@@ -12,11 +12,14 @@ A simple machine learning web app built using **Streamlit** and **Scikit-learn**
 - 🛠️ Easy to customize and extend
 
 ---
+
+
+
+
 ## 🌐 Live App
 
-Try the app here 👉 [https://house_price-Ujjwal120605.streamlit.app]## 🌐 Live App
+Try the app here 👉 [[https://house-price-app-yourusername.streamlit.app][(https://house-price-app-yourusername.streamlit.app)](http://localhost:8502/)](http://localhost:8502/)
 
-Try the app here 👉[(https://house-price-app-yourusername.streamlit.app)](http://localhost:8502/)
 
 
 
